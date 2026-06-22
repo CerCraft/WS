@@ -29,8 +29,7 @@ Web Shield provides complete visibility into third-party tracking activities on 
 ### From source
 
 ```bash
-git clone https://github.com/CerCraft07/web-shield.git
-cd web-shield
+git clone https://github.com/CerCraft/WS.git
 npm install
 npm run build
 ```
